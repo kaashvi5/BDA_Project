@@ -1,0 +1,39 @@
+Total Visitors =
+SUM(gold_state_overview[total_visitors])
+
+States Covered =
+DISTINCTCOUNT(gold_state_overview[state])
+
+Destinations Covered =
+SUM(gold_state_overview[destinations_count])
+
+Average Visitors per Record =
+AVERAGE(gold_state_overview[avg_visitors_per_record])
+
+Domestic Visitors =
+CALCULATE(
+    SUM(gold_visitor_type[total_visitors]),
+    gold_visitor_type[visitor_type] = "Domestic"
+)
+
+Foreign Visitors =
+CALCULATE(
+    SUM(gold_visitor_type[total_visitors]),
+    gold_visitor_type[visitor_type] = "Foreign"
+)
+
+Foreign Visitor Share (%) =
+DIVIDE(
+    [Foreign Visitors],
+    [Domestic Visitors] + [Foreign Visitors],
+    0
+) * 100
+
+Monthly Visitors =
+SUM(gold_monthly_trends[total_visitors])
+
+Average Maximum Temperature (C) =
+AVERAGE(gold_weather_tourism[temp_max_c])
+
+Average Precipitation (mm) =
+AVERAGE(gold_weather_tourism[precipitation_mm])

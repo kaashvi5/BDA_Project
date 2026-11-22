@@ -1,0 +1,154 @@
+destination,state,latitude,longitude,category
+Amaravati,Andhra Pradesh,16.9106,80.2128,Wildlife
+Araku Valley,Andhra Pradesh,16.4366,79.7526,Heritage
+Lepakshi,Andhra Pradesh,15.5743,80.3729,Coastal
+Tirupati,Andhra Pradesh,16.4243,80.6667,Adventure
+Vijayawada,Andhra Pradesh,16.3454,80.5725,Spiritual
+Visakhapatnam,Andhra Pradesh,16.2711,80.8792,Nature
+Bomdila,Arunachal Pradesh,27.7928,93.5652,Coastal
+Dirang,Arunachal Pradesh,27.0928,93.161,Nature
+Itanagar,Arunachal Pradesh,27.1182,94.0782,Cultural
+Tawang,Arunachal Pradesh,26.7325,93.8982,Heritage
+Ziro Valley,Arunachal Pradesh,27.118,93.7304,Spiritual
+Guwahati,Assam,26.4505,93.1857,Heritage
+Kaziranga,Assam,26.8833,93.5491,Wildlife
+Majuli,Assam,25.7002,92.1731,Spiritual
+Manas,Assam,26.6842,93.0895,Cultural
+Sivasagar,Assam,26.5857,92.9749,Coastal
+Bodh Gaya,Bihar,24.9876,85.4135,Adventure
+Nalanda,Bihar,26.2027,84.627,Wildlife
+Patna,Bihar,25.1773,85.4348,Heritage
+Rajgir,Bihar,25.6225,85.7699,Coastal
+Vaishali,Bihar,25.2116,84.9735,Spiritual
+Barnawapara,Chhattisgarh,21.2233,80.8419,Heritage
+Bastar,Chhattisgarh,21.676,81.9058,Spiritual
+Chitrakote Falls,Chhattisgarh,22.2569,81.5649,Nature
+Raipur,Chhattisgarh,21.6615,81.6184,Adventure
+Sirpur,Chhattisgarh,21.7689,81.3706,Wildlife
+Baga,Goa,15.8003,74.4377,Nature
+Calangute,Goa,16.0534,73.8067,Cultural
+Dudhsagar Falls,Goa,15.1808,73.9706,Spiritual
+Old Goa,Goa,15.3134,74.122,Wildlife
+Palolem,Goa,15.7174,73.6277,Heritage
+Panaji,Goa,15.8202,74.2289,Adventure
+Ahmedabad,Gujarat,22.4936,71.6252,Heritage
+Dwarka,Gujarat,22.3395,71.4612,Spiritual
+Gir National Park,Gujarat,22.2679,71.3758,Cultural
+Rann of Kutch,Gujarat,22.3387,70.8086,Nature
+Somnath,Gujarat,22.927,72.1783,Coastal
+Statue of Unity,Gujarat,22.3888,71.1541,Wildlife
+Kurukshetra,Haryana,28.6967,75.299,Coastal
+Morni Hills,Haryana,29.0229,75.964,Wildlife
+Panipat,Haryana,29.2817,76.1118,Adventure
+Pinjore Gardens,Haryana,28.7142,75.9636,Nature
+Sultanpur National Park,Haryana,29.1308,76.1305,Cultural
+Dalhousie,Himachal Pradesh,31.2691,78.098,Wildlife
+Dharamshala,Himachal Pradesh,31.353,77.2446,Cultural
+Kullu,Himachal Pradesh,31.3639,76.95,Nature
+Manali,Himachal Pradesh,31.2242,77.4237,Coastal
+Shimla,Himachal Pradesh,31.258,77.1948,Spiritual
+Spiti Valley,Himachal Pradesh,30.6296,77.7318,Adventure
+Betla National Park,Jharkhand,23.2923,85.298,Heritage
+Deoghar,Jharkhand,23.7244,85.8404,Wildlife
+Jamshedpur,Jharkhand,24.1483,85.5796,Spiritual
+Netarhat,Jharkhand,23.3611,85.7403,Adventure
+Ranchi,Jharkhand,23.7296,86.3558,Nature
+Badami,Karnataka,15.927,76.7119,Spiritual
+Bengaluru,Karnataka,15.8398,75.5116,Cultural
+Coorg,Karnataka,15.6543,75.8711,Wildlife
+Gokarna,Karnataka,14.6014,75.6996,Heritage
+Hampi,Karnataka,15.7208,76.3566,Adventure
+Mysuru,Karnataka,14.9546,75.7261,Nature
+Alappuzha,Kerala,10.4872,76.8447,Heritage
+Kochi,Kerala,10.8072,75.5682,Spiritual
+Kovalam,Kerala,10.0802,76.2016,Cultural
+Munnar,Kerala,10.4741,76.3596,Wildlife
+Thekkady,Kerala,9.7507,76.7764,Nature
+Wayanad,Kerala,9.4477,76.2619,Coastal
+Bhopal,Madhya Pradesh,23.4733,77.6486,Cultural
+Gwalior,Madhya Pradesh,23.5278,78.3017,Heritage
+Kanha,Madhya Pradesh,23.4825,78.8087,Adventure
+Khajuraho,Madhya Pradesh,23.0624,79.1241,Coastal
+Sanchi,Madhya Pradesh,23.0425,78.6913,Nature
+Ujjain,Madhya Pradesh,23.221,78.3942,Wildlife
+Ajanta Caves,Maharashtra,20.1799,76.5271,Heritage
+Lonavala,Maharashtra,20.0633,75.0142,Cultural
+Mahabaleshwar,Maharashtra,19.6418,75.6109,Spiritual
+Mumbai,Maharashtra,20.3775,76.1994,Adventure
+Nashik,Maharashtra,19.5388,75.449,Coastal
+Pune,Maharashtra,19.7114,75.9945,Wildlife
+Bishnupur,Manipur,25.3156,93.9363,Adventure
+Imphal,Manipur,24.9759,93.6254,Coastal
+Kangla Fort,Manipur,24.8438,93.5072,Cultural
+Loktak Lake,Manipur,23.9443,93.8571,Spiritual
+Ukhrul,Manipur,25.0466,93.6113,Nature
+Cherrapunji,Meghalaya,25.163,91.1835,Spiritual
+Dawki,Meghalaya,25.0151,91.5068,Coastal
+Mawlynnong,Meghalaya,25.1586,91.8172,Cultural
+Nongriat,Meghalaya,26.4065,91.5641,Nature
+Shillong,Meghalaya,26.1304,91.5462,Heritage
+Aizawl,Mizoram,22.6233,92.0411,Wildlife
+Champhai,Mizoram,23.1194,92.7683,Coastal
+Lunglei,Mizoram,24.4875,92.9824,Cultural
+Reiek,Mizoram,22.3559,92.2229,Heritage
+Vantawng Falls,Mizoram,23.9403,93.1158,Spiritual
+Dimapur,Nagaland,26.092,93.9502,Heritage
+Dzukou Valley,Nagaland,26.4985,94.4068,Wildlife
+Kohima,Nagaland,25.553,94.3722,Adventure
+Mokokchung,Nagaland,25.1311,94.7636,Spiritual
+Mon,Nagaland,25.4811,94.0362,Coastal
+Bhubaneswar,Odisha,20.5615,85.8619,Adventure
+Chilika Lake,Odisha,20.4481,85.8125,Heritage
+Konark,Odisha,20.2994,85.7723,Wildlife
+Puri,Odisha,19.4432,85.8834,Nature
+Similipal,Odisha,20.8885,85.7828,Spiritual
+Amritsar,Punjab,30.722,75.2988,Cultural
+Anandpur Sahib,Punjab,31.26,75.8237,Nature
+Ludhiana,Punjab,31.4817,75.3134,Adventure
+Patiala,Punjab,31.0175,74.1687,Wildlife
+Wagah Border,Punjab,31.5642,75.6781,Heritage
+Jaipur,Rajasthan,26.9563,73.8693,Coastal
+Jaisalmer,Rajasthan,26.7146,74.7148,Nature
+Jodhpur,Rajasthan,27.3753,73.1071,Adventure
+Mount Abu,Rajasthan,27.3167,73.6372,Heritage
+Pushkar,Rajasthan,26.4154,74.0641,Wildlife
+Udaipur,Rajasthan,27.0003,72.7614,Cultural
+Gangtok,Sikkim,27.5166,89.2933,Adventure
+Lachung,Sikkim,27.9193,88.8704,Spiritual
+Pelling,Sikkim,27.6724,88.3934,Wildlife
+Tsomgo Lake,Sikkim,27.3031,87.8731,Heritage
+Yuksom,Sikkim,27.605,88.9874,Coastal
+Chennai,Tamil Nadu,11.5579,78.7066,Nature
+Kodaikanal,Tamil Nadu,10.9901,78.9529,Coastal
+Madurai,Tamil Nadu,11.3542,78.1936,Adventure
+Mahabalipuram,Tamil Nadu,10.7241,79.3951,Spiritual
+Ooty,Tamil Nadu,10.659,79.1756,Wildlife
+Rameswaram,Tamil Nadu,10.5525,78.0642,Heritage
+Bhadrachalam,Telangana,17.7445,78.9345,Nature
+Hyderabad,Telangana,17.9922,79.3267,Heritage
+Nagarjuna Sagar,Telangana,17.7656,78.512,Coastal
+Ramoji Film City,Telangana,17.6594,78.9334,Cultural
+Warangal,Telangana,17.8682,79.7556,Spiritual
+Agartala,Tripura,24.4073,90.7007,Wildlife
+Jampui Hills,Tripura,23.9929,91.4258,Cultural
+Neermahal,Tripura,23.3191,91.3565,Heritage
+Sepahijala,Tripura,23.3112,90.9825,Coastal
+Unakoti,Tripura,24.0015,90.8094,Spiritual
+Agra,Uttar Pradesh,26.6315,81.1961,Adventure
+Ayodhya,Uttar Pradesh,27.0948,80.8216,Spiritual
+Lucknow,Uttar Pradesh,26.7924,81.0891,Heritage
+Mathura,Uttar Pradesh,27.2427,80.6695,Cultural
+Prayagraj,Uttar Pradesh,27.0578,80.9376,Coastal
+Varanasi,Uttar Pradesh,27.3448,81.3525,Wildlife
+Haridwar,Uttarakhand,29.7524,79.0314,Coastal
+Jim Corbett,Uttarakhand,30.4913,78.2055,Wildlife
+Kedarnath,Uttarakhand,30.2391,78.594,Adventure
+Mussoorie,Uttarakhand,30.3842,78.6415,Nature
+Nainital,Uttarakhand,30.2808,78.9447,Cultural
+Rishikesh,Uttarakhand,30.5985,79.0372,Spiritual
+Darjeeling,West Bengal,23.2158,87.5792,Adventure
+Digha,West Bengal,23.2743,87.1263,Heritage
+Kalimpong,West Bengal,23.4161,88.2164,Spiritual
+Kolkata,West Bengal,22.3687,88.6781,Nature
+Shantiniketan,West Bengal,22.5599,87.0222,Coastal
+Sundarbans,West Bengal,22.9404,87.721,Wildlife
